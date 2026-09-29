@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-JimmyBynex",
-  "commit": "92326efdd62760fe3d6a2a3e55ed51938353288d",
-  "score": 35,
+  "commit": "83b17a96b10db899d40c7f61aa5f1999f893d9c5",
+  "score": 38,
   "totalScore": 110,
   "exercises": [
     {
@@ -240,23 +240,23 @@
     {
       "name": "enums1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "enums2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "enums3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "strings1",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "JimmyBynex",
-  "runId": "36547838774",
+  "runId": "36556371531",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
